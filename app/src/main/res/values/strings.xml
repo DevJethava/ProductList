@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductList</string>
+    <string name="mobile_number_text">MobileNo</string>
+    <string name="internet_not_available">Internet not available.</string>
+</resources>
